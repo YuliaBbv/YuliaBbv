@@ -1,0 +1,47 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 30px;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+#header {
+  font-family: Georgia;
+  font-size: 16px;
+  margin-bottom: 32px;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  
+}
+
+    #header>h1 {
+	    font-size: 36px;
+	}
+    #header>h2 {
+        font-size: 32px;
+    }
+
+#main {
+  font-family: Georgia;
+  font-size: 16px;
+  margin:  64px;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+#footer {
+    font-family: Georgia;
+  font-size: 16px;
+  margin:  64px;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 64px;
+  padding-bottom: 32px;
+}
+
+    
